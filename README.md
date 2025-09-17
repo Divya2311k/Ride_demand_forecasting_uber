@@ -57,4 +57,3 @@ The goal is to predict future demand trends and help in **efficient resource all
 
 ---
 
-## 📂 Project Structure  
